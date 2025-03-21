@@ -3,6 +3,7 @@
 🎓 Actualmente estoy formándome en Big Data, Machine Learning e Inteligencia Artificial a través de un bootcamp intensivo en KeepCoding. Estoy trabajando con herramientas como SQL, Python y R, enfocándome en análisis de datos, creación de modelos predictivos y automatización de procesos.
 
 💻 En este perfil iré subiendo proyectos y prácticas relacionados con Data Science, desde consultas complejas en bases de datos hasta modelos de Machine Learning aplicados a problemas reales.
+
 //
 
 🎓 I'm currently enrolled in an intensive Bootcamp in Big Data, Machine Learning, and Artificial Intelligence at KeepCoding. I'm working with tools like SQL, Python, and R, focusing on data analysis, predictive modeling, and process automation.
